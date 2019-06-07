@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dumaguete Tsismosa</string>
+    <string name="privacy_policy_confirm">By tapping Accept and Continue you have read and accepted our Privacy Policy
+    </string>
+    <string name="aliascreation_message">To conceal users identity, all users are required to create an Alias as their
+        Dumaguete Tsismosa name.
+    </string>
+</resources>
